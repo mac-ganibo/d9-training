@@ -1,0 +1,5 @@
+name: "Drupal training theme."
+description: 'Theme for drupal traning'
+type: theme
+core_version_requirement: ^8 || ^9
+base theme: stable
