@@ -1,0 +1,4 @@
+name: Hello world custom module
+description: Contains example for Drupal api implementation
+type: module
+core_version_requirement: ^8 || ^9 
